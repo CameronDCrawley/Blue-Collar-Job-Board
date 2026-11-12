@@ -2,8 +2,8 @@
 
 A simple web application that allows users to search for job listings in skilled trades across the US using the Adzuna Job Search API.
 
----
-
+## Live Demo
+(https://camerondcrawley.github.io/Blue-Collar-Job-Board/)
 ## Features
 
 - **Trade Search:** Select a skilled trade from a dropdown menu to find relevant job openings.
